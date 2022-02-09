@@ -1,7 +1,7 @@
 # Inverse-of-matrix
 
 ## AIM:
-
+to write a python progarm to find the inverse f the matrix
 ## ALGORITHM:
 ### Step 1:
 Use import numpy as np.
