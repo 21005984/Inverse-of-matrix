@@ -43,3 +43,4 @@ print(inverse)
 ![Output](.//G1.png)
 
 ## RESULT:
+thus the program is written to find the matrix
